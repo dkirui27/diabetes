@@ -20,7 +20,7 @@ library(leaps)
 library(glmnet)
 library(car)
 library(stargazer)
-readmission_data <- read.csv("~/Desktop/PhD work/Year 3/Spring 2017/STAT 571 - Modern Data Mining/Mini-Project/readmission.csv") #clean data
+readmission_data <- read.csv("~/readmission.csv") #clean data
 ```
 
 
